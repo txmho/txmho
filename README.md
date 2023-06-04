@@ -12,7 +12,6 @@ Here on Github, I would like to use my experience and expertise to contribute to
 
 * 🌍  I'm based in Gießen, Germany
 * 🤝  I'm open to collaborate on exciting projects as a frontend developer, designer or dev rel.
-<br>
 
 ### WebDev Skillset
 <p align="left">
