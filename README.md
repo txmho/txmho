@@ -5,7 +5,7 @@ My name is Tim.
 
 I'm currently working as an IT consultant in a medium-sized software company, where I take care of the design and implementation of customised processes. 
 
-On the side, I have been working as a freelance web developer for several years, using technologies such as React.js, Next.js, TailwindCSS and Node.js + Nest.js. 
+On the side, I have been working as a freelance web developer for several years, using technologies such as React.js, Next.js, SCSS and Node.js + Nest.js. 
 
 I look forward on connecting with other professionals and am striving to improve my skills and become a better developer at all times. 
 Here on Github, I would like to use my experience and expertise to contribute to opensource projects.   
